@@ -1,4 +1,4 @@
-name: 🐛 Сообщение об ошибке
+﻿name: 🐛 Сообщение об ошибке
 description: Мод ведёт себя не так, как ожидалось
 title: "[BUG] "
 labels: ["bug"]
@@ -15,8 +15,8 @@ body:
     id: version
     attributes:
       label: Версия мода
-      placeholder: 30.0.1
-      description: Как указано в названии jar-файла, например `RP-MXTR-RPGA-30.0.1.jar`
+      placeholder: 61.9.0
+      description: Как указано в названии jar-файла, например `RP-MXTR-RMT-61.9.0.jar`
     validations:
       required: true
 
@@ -26,7 +26,7 @@ body:
       label: Где воспроизводится
       options:
         - Одиночная игра
-        - Сервер RPGA
+        - Сервер RMT
         - Свой сервер
       description: От этого зависит, где искать причину
     validations:
