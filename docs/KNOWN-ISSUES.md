@@ -26,7 +26,7 @@
 
 ### Способ 2 — GitHub Issues
 
-[Создать Issue](https://github.com/MXTR-MANAGER/RPGA-Minecraft-Roleplay/issues)
+[Создать Issue](https://github.com/MXTR-MANAGER/RP-MXTR-RMT/issues)
 с меткой **bug**. Обязательно укажи:
 
 - **Версию мода** — например `RP-MXTR-RMT-61.9.0.jar`
